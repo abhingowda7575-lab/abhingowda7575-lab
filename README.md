@@ -1,5 +1,10 @@
 # 💫 About Me:
-i am a ai engineer
+🔭 I’m currently working on Data Analytics & AI projects  
+👯 I’m looking to collaborate on AI and Data-driven applications  
+🫶 I’m looking for help with advanced Machine Learning & Agentic AI  
+🌱 I’m currently learning Python, SQL, Power BI & Machine Learning  
+💬 Ask me about Data Analytics, SQL, and Python  
+⚡ Fun fact: I love turning raw data into meaningful insights
 
 
 ## 🌐 Socials:
